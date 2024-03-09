@@ -16,4 +16,5 @@
 
 화면구성
 ---------------
-![todo01](https://user-images.githubusercontent.com/110013101/226085414-8704c2f2-415a-402e-9d50-366d8e8ac535.jpg)
+![image](https://github.com/peeChulchul/my_portfolio/assets/144536397/019b60fd-c287-4977-854d-a595b95c9a2f)
+
